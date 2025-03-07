@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "module": "ESNext",
+    "strict": true,
+    "checkJs": true,
+    "noEmit": true
+  },
+  "include": ["src", "vite-env.d.ts"]
+}
