@@ -27,7 +27,7 @@ front-vanilla-skeleton/
 
 ## ⚡ Prerequisites
 
-Ensure you have [Node.js](https://nodejs.org) latest version installed.
+Ensure you have the latest version of [Node.js](https://nodejs.org) installed.
 
 ## 🚀 Usage
 
